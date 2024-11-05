@@ -1,0 +1,14 @@
+# Ignore system files
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+.cache/
+.idea/
+.env
+
+# Ignore user-specific directories
+OneDrive/
+Desktop/
+Documents/
+Downloads/
